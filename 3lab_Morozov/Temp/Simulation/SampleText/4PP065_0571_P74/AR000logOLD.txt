@@ -1,0 +1,21 @@
+Tue Dec 29 15:04:08 2020
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue Dec 29 15:04:08 2020
+No ARsim registration found!
+
+Tue Dec 29 15:04:08 2020
+InstanceName: 01d6dddab65856a0
+
+Tue Dec 29 15:04:08 2020
+WorkingDirectory: C:\Users\User\Desktop\3lab_Morozov\Temp\Simulation\SampleText\4PP065_0571_P74\
+
+Tue Dec 29 15:04:08 2020
+COMMAND_COLDSTART
+
+Tue Dec 29 15:04:14 2020
+Version: D4.52
+
+Tue Dec 29 15:04:48 2020
+COMMAND_TERMINATE
+
